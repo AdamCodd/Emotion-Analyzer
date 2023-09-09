@@ -18,6 +18,10 @@ Emotion Analyzer is a Python-based tool designed to identify emotional tones in 
 
 The lexicon used in this project originates from the [NRC-Emotion-Intensity-Lexicon-v1](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm). It has undergone extensive curation and deduplication, and has been augmented with the [lemminflect](https://github.com/bjascob/LemmInflect) library to align with six fundamental emotions: "sadness," "love," "joy," "anger," "fear," and "surprise." The lexicon, which contains 9,762 entries, is functional but remains a work in progress.
 
+## Default Lexicon Path
+
+By default, the program looks for a `lexicon.csv` file in the same directory as the script. You can override this by specifying a different path using the `--lexicon_path` command-line argument.
+
 ## Requirements
 
 - Python 3.x
