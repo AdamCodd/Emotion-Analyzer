@@ -2,7 +2,7 @@
 
 ## Description
 
-Emotion Analyzer is a Python-based text analysis tool designed to identify emotional tones in given text. It uses a lexicon-based approach and allows for the incorporation of booster words and negations to provide a more nuanced understanding of the text's emotional content. The application can read from various file formats like CSV, JSON, JSONL, and plain text. It also supports multi-threading for optimized performance.
+Emotion Analyzer is a Python-based tool designed to identify emotional tones in text. Utilizing a lexicon-based approach, it incorporates booster words and negations to offer a nuanced analysis of emotional content. The tool supports various file formats such as CSV, JSON, JSONL, and plain text, and is optimized for performance through multi-threading. Its capabilities can be further enhanced when used in conjunction with an [emotion classifier](https://huggingface.co/AdamCodd/distilbert-base-uncased-finetuned-emotion-balanced).
 
 ## Features
 
@@ -16,7 +16,7 @@ Emotion Analyzer is a Python-based text analysis tool designed to identify emoti
 
 ### Lexicon
 
-The lexicon used in this project is derived from the "NRC-Emotion-Intensity-Lexicon-v1". It has been heavily curated, deduplicated, and augmented with the "lemminflect" library to match six emotions: "sadness", "love", "joy", "anger", "fear", and "surprise". The lexicon is still a work in progress.
+The lexicon used in this project originates from the [NRC-Emotion-Intensity-Lexicon-v1](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm). It has undergone extensive curation and deduplication, and has been augmented with the [lemminflect](https://github.com/bjascob/LemmInflect) library to align with six fundamental emotions: "sadness," "love," "joy," "anger," "fear," and "surprise." The lexicon, which contains 9,762 entries, is functional but remains a work in progress.
 
 ## Requirements
 
