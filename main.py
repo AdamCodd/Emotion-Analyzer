@@ -392,9 +392,12 @@ class ResultsSaver:
 
 
 def parse_args():
+    current_directory = os.path.dirname(os.path.abspath(__file__))
+    default_lexicon_path = os.path.join(current_directory, 'lexicon.csv')
+
     parser = argparse.ArgumentParser(description='Perform emotion analysis.')
     parser.add_argument('--text', type=str, help='Text to analyze if not reading from a file')
-    parser.add_argument('--lexicon_path', required=True, help='Path to the lexicon file')
+    parser.add_argument('--lexicon_path', default=default_lexicon_path, help=f'Path to the lexicon file (default is {default_lexicon_path})')
     parser.add_argument('--max_threads', type=int, default=4, help='Maximum number of threads for parallel processing')
     parser.add_argument('--encoding', type=str, default='utf-8', help='File encoding for the lexicon (default is utf-8)')
     parser.add_argument('--ambiguity_threshold', type=float, default=0.1, help='Threshold for ambiguous emotions')
@@ -402,6 +405,7 @@ def parse_args():
     parser.add_argument('--json_key', type=str, default='text', help='Key to read texts from when input file is JSON or JSONL')
     parser.add_argument('--output', type=str, default='output', help='Base name of the output file to save the results')
     parser.add_argument('--format', type=str, default='csv', choices=['csv', 'txt', 'json', 'jsonl'], help='Output format: csv, txt, json, jsonl (default is csv)')
+    
     return parser.parse_args()
 
 
