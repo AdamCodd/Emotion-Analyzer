@@ -24,7 +24,7 @@ By default, the program looks for a `lexicon.csv` file in the same directory as 
 
 ## Requirements
 
-- Python 3.x
+- Python 3.6+
 
 ## Installation
 
