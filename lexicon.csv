@@ -3091,6 +3091,7 @@ leeching;fear;0.531
 leech;fear;0.531
 manifestation;fear;0.531
 manifestations;fear;0.531
+electrocuted;fear;0.531
 captor;fear;0.531
 captors;fear;0.531
 stormy;fear;0.531
@@ -3109,6 +3110,7 @@ jars;fear;0.531
 jar;fear;0.531
 jarred;fear;0.531
 jarring;fear;0.531
+self conscious;fear;0.531
 hides in fear;fear;0.524
 hiding in fear;fear;0.524
 unlawful;fear;0.519
@@ -4248,6 +4250,7 @@ better day ever;joy;0.938
 best day ever;joy;0.938
 celebration;joy;0.932
 celebrations;joy;0.932
+unconditional love;joy;0.929
 joys;joy;0.926
 joy;joy;0.926
 joyous;joy;0.924
@@ -4260,11 +4263,11 @@ made me happy;joy;0.922
 make me happy;joy;0.922
 euphoria;joy;0.922
 euphorias;joy;0.922
-excitement;joy;0.922
-excitements;joy;0.922
 gratitude;joy;0.92
+awesomeness;joy;0.914
 merriment;joy;0.912
 spectacular;joy;0.912
+happydance;joy;0.912
 pure bliss;joy;0.909
 purer bliss;joy;0.909
 purest bliss;joy;0.909
@@ -4312,12 +4315,15 @@ overing the moon;joy;0.875
 happier place;joy;0.875
 happy place;joy;0.875
 happiest place;joy;0.875
+overjoyed;joy;0.875
 superb;joy;0.868
 laughed;joy;0.864
 laughing;joy;0.864
 laugh;joy;0.864
 laughs;joy;0.864
 wonderful;joy;0.864
+yaaaay;joy;0.864
+woohoo;joy;0.863
 tears of joy;joy;0.859
 torn of joy;joy;0.859
 tore of joy;joy;0.859
@@ -4333,6 +4339,8 @@ brilliant;joy;0.859
 brilliants;joy;0.859
 heavenly;joy;0.859
 magnificent;joy;0.859
+hooray;joy;0.859
+hallelujah;joy;0.859
 thrills;joy;0.853
 thrilling;joy;0.853
 thrill;joy;0.853
@@ -4345,6 +4353,7 @@ excite;joy;0.851
 making my day;joy;0.851
 makes my day;joy;0.851
 made my day;joy;0.851
+yayyyy;joy;0.848
 make my day;joy;0.844
 blest;joy;0.844
 blessing;joy;0.844
@@ -4353,14 +4362,15 @@ blessed;joy;0.844
 blesses;joy;0.844
 paradises;joy;0.844
 paradise;joy;0.844
+ho ho ho;joy;0.844
 wonderfully;joy;0.833
 marvellous;joy;0.833
 festive;joy;0.833
+sweetnesses;joy;0.833
 exalt;joy;0.831
 exalting;joy;0.831
 exalts;joy;0.831
 exalted;joy;0.831
-sweetnesses;joy;0.833
 sweetness;joy;0.831
 enchants;joy;0.828
 enchanted;joy;0.828
@@ -4369,6 +4379,7 @@ enchanting;joy;0.828
 homes sweet home;joy;0.828
 homing sweet home;joy;0.828
 home sweet home;joy;0.828
+favoriteholiday;joy;0.828
 homed sweet home;joy;0.826
 thank you god;joy;0.826
 thanks you god;joy;0.826
@@ -4376,6 +4387,7 @@ thanked you god;joy;0.826
 thanking you god;joy;0.824
 laughter;joy;0.824
 laughters;joy;0.824
+all smiles;joy;0.824
 marvelous;joy;0.819
 goodness;joy;0.818
 excellence;joy;0.818
@@ -4386,18 +4398,28 @@ celebratory;joy;0.818
 rejoice;joy;0.818
 rejoiced;joy;0.818
 rejoices;joy;0.818
+goodmood;joy;0.818
+happyheart;joy;0.818
 rejoicing;joy;0.816
 glorious;joy;0.812
 victorious;joy;0.812
 bonanzas;joy;0.812
 bonanza;joy;0.812
 excellent;joy;0.812
+greatful;joy;0.812
+smiley;joy;0.812
+greatday;joy;0.812
+goodtimes;joy;0.811
+what makes me smile;joy;0.811
+happyday;joy;0.809
 splendid;joy;0.804
 thank you lord;joy;0.804
 thanks you lord;joy;0.804
 thanked you lord;joy;0.804
 thanking you lord;joy;0.803
 gladness;joy;0.803
+myfavorite;joy;0.803
+yayyy;joy;0.803
 loves my life;joy;0.797
 loved my life;joy;0.797
 love my life;joy;0.797
@@ -4410,6 +4432,7 @@ loves life;joy;0.797
 loved life;joy;0.797
 love life;joy;0.797
 loving life;joy;0.797
+yeahhhh;joy;0.797
 amuse;joy;0.789
 amuses;joy;0.789
 amusing;joy;0.789
@@ -4427,6 +4450,7 @@ romances;joy;0.781
 glorify;joy;0.781
 glorifies;joy;0.781
 glorifying;joy;0.781
+yesss;joy;0.781
 glorified;joy;0.779
 perfection;joy;0.779
 heaven;joy;0.779
@@ -4441,6 +4465,8 @@ happy valentines day;joy;0.773
 happiest valentines day;joy;0.773
 fiesta;joy;0.773
 fiestas;joy;0.773
+christmassy;joy;0.773
+congrats;joy;0.773
 miraculous;joy;0.771
 lives is good;joy;0.771
 life is good;joy;0.766
@@ -4448,6 +4474,8 @@ goods feeling;joy;0.766
 good feeling;joy;0.766
 better feeling;joy;0.766
 best feeling;joy;0.766
+funday;joy;0.766
+christmas spirit;joy;0.766
 positives;joy;0.765
 positivity;joy;0.765
 positive;joy;0.761
@@ -4464,6 +4492,9 @@ giddiest;joy;0.757
 gratify;joy;0.757
 gratified;joy;0.757
 gratifying;joy;0.757
+the best;joy;0.757
+excitement;joy;0.75
+excitements;joy;0.75
 gratifies;joy;0.75
 friendliness;joy;0.75
 seasoning;joy;0.75
@@ -4503,7 +4534,10 @@ feels good;joy;0.742
 feel good;joy;0.742
 enthusiasm;joy;0.742
 enthusiasms;joy;0.742
+christmas time;joy;0.742
+self love;joy;0.742
 magical;joy;0.736
+goodvibes;joy;0.735
 prosperity;joy;0.734
 goods day;joy;0.734
 good day;joy;0.734
@@ -4518,6 +4552,7 @@ great night;joy;0.734
 greatest night;joy;0.734
 vivacious;joy;0.734
 glorification;joy;0.734
+be happy;joy;0.734
 admiration;joy;0.733
 sung;joy;0.733
 sings;joy;0.733
@@ -4530,6 +4565,7 @@ compliment;joy;0.729
 complimenting;joy;0.729
 complimented;joy;0.729
 compliments;joy;0.729
+tgif;joy;0.729
 oh yes;joy;0.728
 fulfillments;joy;0.728
 fulfillment;joy;0.728
@@ -4549,6 +4585,9 @@ inspirations;joy;0.727
 awarding;joy;0.727
 awards;joy;0.727
 awarded;joy;0.727
+yessss;joy;0.727
+hurrah;joy;0.727
+christmas break;joy;0.727
 award;joy;0.725
 radiance;joy;0.725
 radiances;joy;0.725
@@ -4573,8 +4612,6 @@ amusements;joy;0.719
 amusement;joy;0.719
 perfecting;joy;0.719
 perfected;joy;0.719
-perfect;joy;0.719
-perfects;joy;0.719
 heartfelt;joy;0.719
 utopians;joy;0.719
 utopian;joy;0.719
@@ -4591,6 +4628,7 @@ praise;joy;0.719
 brightened;joy;0.719
 brightening;joy;0.719
 brightens;joy;0.719
+at peace;joy;0.719
 brighten;joy;0.712
 merry christmas;joy;0.712
 merrier christmas;joy;0.712
@@ -4606,6 +4644,7 @@ luxuries;joy;0.712
 intimates;joy;0.712
 intimating;joy;0.712
 intimate;joy;0.712
+xmas;joy;0.712
 intimated;joy;0.706
 chuckles;joy;0.706
 chuckle;joy;0.706
@@ -4621,6 +4660,7 @@ happier;joy;0.706
 happy;joy;0.706
 happiness;joy;0.706
 happiest;joy;0.706
+yay;joy;0.706
 prouder;joy;0.703
 cherishes;joy;0.703
 cherish;joy;0.703
@@ -4650,6 +4690,10 @@ sweeter;joy;0.703
 sweetest;joy;0.703
 sweets;joy;0.703
 amazingly;joy;0.703
+yaaay;joy;0.703
+fuck yeah;joy;0.703
+goodlife;joy;0.703
+gooood;joy;0.703
 optimism;joy;0.697
 newest beginnings;joy;0.697
 new beginnings;joy;0.697
@@ -4674,6 +4718,9 @@ holidaying season;joy;0.688
 holidayed season;joy;0.688
 holidays season;joy;0.688
 holiday season;joy;0.688
+yaay;joy;0.688
+metime;joy;0.688
+goodhealth;joy;0.688
 angelic;joy;0.682
 luscious;joy;0.682
 memory I won't forget;joy;0.682
@@ -4684,6 +4731,7 @@ precious;joy;0.682
 exaltations;joy;0.682
 exaltation;joy;0.682
 tranquility;joy;0.682
+godsend;joy;0.682
 majestic;joy;0.676
 positively;joy;0.676
 embraces;joy;0.676
@@ -4715,6 +4763,8 @@ enliven;joy;0.672
 enlivened;joy;0.672
 enlivens;joy;0.672
 enlivening;joy;0.672
+bestfriends;joy;0.672
+bday;joy;0.672
 hilarious;joy;0.667
 bountiful;joy;0.667
 victors;joy;0.667
@@ -4722,6 +4772,7 @@ victor;joy;0.667
 adored;joy;0.667
 adores;joy;0.667
 adoring;joy;0.667
+weeeee;joy;0.667
 adore;joy;0.662
 prosperous;joy;0.66
 appreciation;joy;0.66
@@ -4745,6 +4796,9 @@ pleasant;joy;0.656
 captivate;joy;0.656
 captivates;joy;0.656
 captivated;joy;0.656
+fulfill;joy;0.656
+besties;joy;0.656
+christmaseve;joy;0.656
 captivating;joy;0.652
 abundance;joy;0.652
 abundances;joy;0.652
@@ -4805,6 +4859,7 @@ divined;joy;0.641
 honeymooning;joy;0.641
 honeymoons;joy;0.641
 honeymoon;joy;0.641
+innerpeace;joy;0.641
 honeymooned;joy;0.636
 smiling;joy;0.636
 smile;joy;0.636
@@ -4826,6 +4881,11 @@ reverie;joy;0.636
 cheerful;joy;0.636
 cheerfully;joy;0.636
 winner;joy;0.636
+jackpot;joy;0.636
+teasingly;joy;0.636
+funny;joy;0.636
+yayy;joy;0.636
+xoxo;joy;0.634
 winners;joy;0.625
 festival;joy;0.625
 festivals;joy;0.625
@@ -4848,6 +4908,7 @@ wicking grin;joy;0.625
 snuggling;joy;0.625
 snuggled;joy;0.625
 snuggle;joy;0.625
+stargazing;joy;0.625
 snuggles;joy;0.622
 kind;joy;0.622
 kindest;joy;0.622
@@ -4864,11 +4925,17 @@ applause;joy;0.618
 aspiring;joy;0.618
 aspire;joy;0.618
 aspires;joy;0.618
+jokes;joy;0.618
+joke;joy;0.618
+joking;joy;0.618
+haha;joy;0.618
+newlife;joy;0.618
 aspired;joy;0.616
 virtuous;joy;0.613
 kissed;joy;0.613
 kisses;joy;0.613
 kissing;joy;0.613
+godbless;joy;0.61
 kiss;joy;0.609
 rainbows;joy;0.609
 rainbow;joy;0.609
@@ -4901,15 +4968,18 @@ inspiring;joy;0.606
 inspired;joy;0.606
 inspire;joy;0.606
 inspires;joy;0.606
+christmas;joy;0.606
 entertainments;joy;0.603
 entertainment;joy;0.603
 passions;joy;0.603
+heheh;joy;0.603
 passion;joy;0.601
 beautifying;joy;0.601
 beautify;joy;0.601
 beautifies;joy;0.601
 beautified;joy;0.601
 sunrise;joy;0.601
+stressfree;joy;0.6
 sunrises;joy;0.594
 revered;joy;0.594
 revere;joy;0.594
@@ -4933,6 +5003,8 @@ fanfares;joy;0.594
 flirting;joy;0.594
 flirts;joy;0.594
 flirted;joy;0.594
+goodmusic;joy;0.594
+whoo;joy;0.594
 flirt;joy;0.591
 summered;joy;0.591
 summering;joy;0.591
@@ -4945,6 +5017,7 @@ overflows;joy;0.588
 overflowed;joy;0.588
 overflow;joy;0.588
 accolades;joy;0.588
+rollicking;joy;0.588
 accolade;joy;0.586
 cozier;joy;0.586
 cozies;joy;0.586
@@ -4965,6 +5038,7 @@ ambition;joy;0.578
 sparkling;joy;0.578
 sparkled;joy;0.578
 sparkles;joy;0.578
+woot;joy;0.578
 sparkle;joy;0.577
 sensual;joy;0.576
 peace;joy;0.576
@@ -4982,10 +5056,12 @@ succeeds;joy;0.576
 succeed;joy;0.576
 supporting;joy;0.576
 support;joy;0.576
+lucky girl;joy;0.576
 heroism;joy;0.574
 tantalizing;joy;0.574
 tantalizes;joy;0.574
 tantalize;joy;0.574
+yeahhh;joy;0.574
 tantalized;joy;0.572
 pumped;joy;0.572
 pump;joy;0.572
@@ -5013,6 +5089,10 @@ prospered;joy;0.562
 prosper;joy;0.562
 prospers;joy;0.562
 prospering;joy;0.562
+yey;joy;0.562
+luckier;joy;0.562
+lucky;joy;0.562
+luckiest;joy;0.562
 worthwhile;joy;0.561
 tenderness;joy;0.561
 favorable;joy;0.561
@@ -5029,6 +5109,7 @@ homed;joy;0.559
 cruising;joy;0.559
 cruise;joy;0.559
 cruises;joy;0.559
+new year;joy;0.556
 cruised;joy;0.554
 faithfulness;joy;0.553
 eagerness;joy;0.552
@@ -5069,6 +5150,7 @@ illuminated;joy;0.547
 illuminating;joy;0.547
 illuminate;joy;0.547
 illuminates;joy;0.547
+gracias;joy;0.547
 zeal;joy;0.545
 subliming;joy;0.545
 sublimed;joy;0.545
@@ -5081,6 +5163,7 @@ encouragement;joy;0.545
 gush;joy;0.545
 gushes;joy;0.545
 gushed;joy;0.545
+good morning;joy;0.545
 gushing;joy;0.544
 freeest;joy;0.544
 freeing;joy;0.544
@@ -5092,6 +5175,7 @@ savior;joy;0.543
 sanctuary;joy;0.543
 sanctuaries;joy;0.541
 grandchild;joy;0.541
+fresh start;joy;0.54
 grandchildren;joy;0.534
 music;joy;0.531
 bridal;joy;0.531
@@ -5099,7 +5183,8 @@ soar;joy;0.531
 soars;joy;0.531
 soared;joy;0.531
 soaring;joy;0.531
-alive;joy;0.531
+feeling alive;joy;0.531
+feel alive;joy;0.531
 soothes;joy;0.531
 soothing;joy;0.531
 soothe;joy;0.531
@@ -5117,6 +5202,8 @@ firstborns;joy;0.531
 firstborn;joy;0.531
 elegant;joy;0.531
 liberations;joy;0.531
+wellness;joy;0.531
+fab;joy;0.531
 liberation;joy;0.53
 glimmered;joy;0.53
 glimmer;joy;0.53
@@ -5179,6 +5266,9 @@ fancies;joy;0.516
 fancier;joy;0.516
 fancying;joy;0.516
 fanciest;joy;0.516
+day off;joy;0.516
+zest;joy;0.516
+no school;joy;0.516
 remarkable;joy;0.515
 kudos;joy;0.515
 therapeutic;joy;0.515
@@ -5214,6 +5304,7 @@ relationships;joy;0.515
 princeliest;joy;0.515
 princely;joy;0.515
 princelier;joy;0.515
+new me;joy;0.515
 godly;joy;0.514
 marriages;joy;0.514
 marriage;joy;0.514
@@ -5222,6 +5313,7 @@ spouse;joy;0.514
 respect;joy;0.514
 respecting;joy;0.514
 respected;joy;0.514
+family time;joy;0.514
 respects;joy;0.507
 blooms;joy;0.507
 bloomed;joy;0.507
@@ -5279,6 +5371,7 @@ aurae;joy;0.493
 approves;joy;0.493
 approve;joy;0.493
 approving;joy;0.493
+stress relief;joy;0.493
 approved;joy;0.486
 oasis;joy;0.486
 oases;joy;0.486
@@ -5338,6 +5431,10 @@ luck;joy;0.484
 lucked;joy;0.484
 lucks;joy;0.484
 commemoration;joy;0.484
+no complaints;joy;0.484
+yummy;joy;0.484
+destiny;joy;0.484
+aloha;joy;0.484
 commemorations;joy;0.48
 readiness;joy;0.48
 readinesses;joy;0.473
@@ -5372,6 +5469,7 @@ inheritance;joy;0.47
 tickled;joy;0.47
 tickle;joy;0.47
 tickles;joy;0.47
+fete;joy;0.47
 tickling;joy;0.469
 eternal;joy;0.469
 humanitarian;joy;0.469
@@ -5400,6 +5498,7 @@ nurtures;joy;0.469
 nurturing;joy;0.469
 nurtured;joy;0.469
 nurture;joy;0.469
+kiddo;joy;0.469
 salutary;joy;0.457
 really cool;joy;0.457
 reminiscing;joy;0.457
@@ -5418,6 +5517,11 @@ kindreds;joy;0.455
 mindfulness;joy;0.455
 tropical;joy;0.455
 scholarship;joy;0.455
+getaway;joy;0.455
+friday;joy;0.455
+freshair;joy;0.455
+nice;joy;0.455
+hee;joy;0.455
 scholarships;joy;0.453
 waterfalls;joy;0.453
 waterfall;joy;0.453
@@ -5434,6 +5538,8 @@ alluring;joy;0.453
 allures;joy;0.453
 allure;joy;0.453
 meditation;joy;0.453
+noworries;joy;0.453
+scenery;joy;0.453
 meditations;joy;0.442
 weekend;joy;0.442
 weekends;joy;0.442
@@ -5478,6 +5584,7 @@ mighty;joy;0.438
 mightiest;joy;0.438
 unbeaten;joy;0.438
 eager;joy;0.438
+namaste;joy;0.438
 moves forward;joy;0.429
 moving forward;joy;0.429
 move forward;joy;0.429
@@ -5486,6 +5593,8 @@ buddy;joy;0.429
 buddying;joy;0.429
 buddied;joy;0.429
 buddies;joy;0.429
+newday;joy;0.427
+unconstrained;joy;0.426
 oneness;joy;0.424
 reverences;joy;0.424
 reverence;joy;0.424
@@ -5504,6 +5613,7 @@ beginnings;joy;0.424
 sleds;joy;0.424
 sledding;joy;0.424
 sled;joy;0.424
+amen;joy;0.424
 sledded;joy;0.422
 ease;joy;0.422
 eases;joy;0.422
@@ -5531,6 +5641,7 @@ safer;joy;0.422
 combative;joy;0.422
 no stress;joy;0.422
 frisky;joy;0.422
+thelittlethings;joy;0.422
 soundness;joy;0.421
 promises;joy;0.421
 promised;joy;0.421
@@ -5587,6 +5698,7 @@ star;joy;0.406
 starring;joy;0.406
 stars;joy;0.406
 income;joy;0.406
+cheeky;joy;0.406
 incomes;joy;0.401
 emancipation;joy;0.4
 progressed;joy;0.4
@@ -5628,6 +5740,7 @@ humanity;joy;0.391
 wittier;joy;0.391
 witty;joy;0.391
 lightheartedly;joy;0.391
+munchies;joy;0.391
 wittiest;joy;0.387
 vowed;joy;0.387
 vowing;joy;0.387
@@ -5690,6 +5803,7 @@ moonlight;joy;0.364
 moonlighted;joy;0.364
 moonlights;joy;0.364
 moonlighting;joy;0.364
+goofy;joy;0.364
 independents;joy;0.36
 independent;joy;0.359
 devotional;joy;0.359
@@ -5712,6 +5826,9 @@ proficiencies;joy;0.359
 sanctifying;joy;0.359
 sanctify;joy;0.359
 sanctifies;joy;0.359
+weightloss;joy;0.359
+listenting;joy;0.359
+giver;joy;0.359
 sanctified;joy;0.353
 deliverance;joy;0.353
 melody;joy;0.353
@@ -5763,10 +5880,16 @@ celebrities;joy;0.344
 celebrity;joy;0.344
 electric;joy;0.344
 bridesmaids;joy;0.344
+cocoa;joy;0.344
+no work;joy;0.344
+new start;joy;0.344
+roadtrip;joy;0.344
+thx;joy;0.344
 bridesmaid;joy;0.342
 rhythms;joy;0.342
 rhythm;joy;0.338
 spa;joy;0.338
+kiddos;joy;0.338
 spas;joy;0.333
 familiarities;joy;0.333
 familiarity;joy;0.333
@@ -5800,6 +5923,7 @@ obliged;joy;0.333
 synchronize;joy;0.333
 synchronizes;joy;0.333
 synchronized;joy;0.333
+snowday;joy;0.333
 synchronizing;joy;0.331
 psalms;joy;0.331
 psalm;joy;0.328
@@ -5823,6 +5947,7 @@ amnesty;joy;0.328
 amnesties;joy;0.328
 respites;joy;0.328
 respite;joy;0.328
+foodie;joy;0.328
 recreational;joy;0.324
 cousin;joy;0.324
 cousins;joy;0.318
@@ -5841,6 +5966,7 @@ reconciliation;joy;0.318
 woods;joy;0.318
 wood;joy;0.318
 wooding;joy;0.318
+no regrets;joy;0.318
 wooded;joy;0.316
 most needed;joy;0.316
 more needed;joy;0.316
@@ -5879,6 +6005,8 @@ deals;joy;0.312
 dealt;joy;0.312
 improvement;joy;0.312
 improvements;joy;0.312
+lazyday;joy;0.312
+relight;joy;0.312
 absolution;joy;0.309
 honest;joy;0.306
 gently;joy;0.303
@@ -6068,6 +6196,7 @@ whims;joy;0.266
 practices;joy;0.266
 practice;joy;0.266
 practicing;joy;0.266
+sunday;joy;0.266
 practiced;joy;0.265
 cleaner;joy;0.265
 clean;joy;0.265
@@ -6258,6 +6387,7 @@ pathways;joy;0.188
 custom;joy;0.188
 customs;joy;0.188
 patients;joy;0.188
+soppy;joy;0.188
 patient;joy;0.186
 dollhouses;joy;0.186
 dollhouse;joy;0.182
@@ -6294,14 +6424,17 @@ civilize;joy;0.172
 waged;joy;0.172
 wages;joy;0.172
 waging;joy;0.172
+moving on;joy;0.172
 wage;joy;0.169
 fainer;joy;0.169
 fain;joy;0.169
+wintery;joy;0.169
 fainest;joy;0.167
 glides;joy;0.167
 gliding;joy;0.167
 glided;joy;0.167
 glide;joy;0.167
+december;joy;0.162
 finally;joy;0.157
 obtainable;joy;0.156
 peppermint;joy;0.156
@@ -6439,138 +6572,6 @@ calf;joy;0.058
 calves;joy;0.045
 sixty;joy;0.045
 sixties;joy;0.016
-unconditional love;joy;0.929
-awesomeness;joy;0.914
-happydance;joy;0.912
-overjoyed;joy;0.875
-yaaaay;joy;0.864
-woohoo;joy;0.863
-hooray;joy;0.859
-hallelujah;joy;0.859
-yayyyy;joy;0.848
-ho ho ho;joy;0.844
-favoriteholiday;joy;0.828
-all smiles;joy;0.824
-goodmood;joy;0.818
-happyheart;joy;0.818
-greatful;joy;0.812
-smiley;joy;0.812
-greatday;joy;0.812
-goodtimes;joy;0.811
-what makes me smile;joy;0.811
-happyday;joy;0.809
-myfavorite;joy;0.803
-yayyy;joy;0.803
-yeahhhh;joy;0.797
-yesss;joy;0.781
-christmassy;joy;0.773
-congrats;joy;0.773
-funday;joy;0.766
-christmas spirit;joy;0.766
-the best;joy;0.757
-christmas time;joy;0.742
-self love;joy;0.742
-goodvibes;joy;0.735
-be happy;joy;0.734
-tgif;joy;0.729
-yessss;joy;0.727
-hurrah;joy;0.727
-christmas break;joy;0.727
-at peace;joy;0.719
-xmas;joy;0.712
-yay;joy;0.706
-yaaay;joy;0.703
-fuck yeah;joy;0.703
-goodlife;joy;0.703
-gooood;joy;0.703
-yaay;joy;0.688
-metime;joy;0.688
-goodhealth;joy;0.688
-godsend;joy;0.682
-bestfriends;joy;0.672
-bday;joy;0.672
-weeeee;joy;0.667
-fulfill;joy;0.656
-besties;joy;0.656
-christmaseve;joy;0.656
-innerpeace;joy;0.641
-jackpot;joy;0.636
-teasingly;joy;0.636
-funny;joy;0.636
-yayy;joy;0.636
-xoxo;joy;0.634
-stargazing;joy;0.625
-jokes;joy;0.618
-joke;joy;0.618
-joking;joy;0.618
-haha;joy;0.618
-newlife;joy;0.618
-godbless;joy;0.61
-christmas;joy;0.606
-heheh;joy;0.603
-stressfree;joy;0.6
-goodmusic;joy;0.594
-whoo;joy;0.594
-rollicking;joy;0.588
-woot;joy;0.578
-lucky girl;joy;0.576
-yeahhh;joy;0.574
-yey;joy;0.562
-luckier;joy;0.562
-lucky;joy;0.562
-luckiest;joy;0.562
-new year;joy;0.556
-gracias;joy;0.547
-good morning;joy;0.545
-fresh start;joy;0.54
-wellness;joy;0.531
-fab;joy;0.531
-day off;joy;0.516
-zest;joy;0.516
-no school;joy;0.516
-new me;joy;0.515
-family time;joy;0.514
-stress relief;joy;0.493
-no complaints;joy;0.484
-yummy;joy;0.484
-destiny;joy;0.484
-aloha;joy;0.484
-fete;joy;0.47
-kiddo;joy;0.469
-getaway;joy;0.455
-friday;joy;0.455
-freshair;joy;0.455
-nice;joy;0.455
-hee;joy;0.455
-noworries;joy;0.453
-scenery;joy;0.453
-namaste;joy;0.438
-newday;joy;0.427
-unconstrained;joy;0.426
-amen;joy;0.424
-thelittlethings;joy;0.422
-cheeky;joy;0.406
-munchies;joy;0.391
-goofy;joy;0.364
-weightloss;joy;0.359
-listenting;joy;0.359
-giver;joy;0.359
-cocoa;joy;0.344
-no work;joy;0.344
-new start;joy;0.344
-roadtrip;joy;0.344
-thx;joy;0.344
-kiddos;joy;0.338
-snowday;joy;0.333
-foodie;joy;0.328
-no regrets;joy;0.318
-lazyday;joy;0.312
-relight;joy;0.312
-sunday;joy;0.266
-soppy;joy;0.188
-moving on;joy;0.172
-wintery;joy;0.169
-december;joy;0.162
 burn passion;love;0.97
 burns passion;love;0.97
 burning passion;love;0.97
@@ -7363,7 +7364,6 @@ corpse;sadness;0.75
 corpses;sadness;0.75
 guilts;sadness;0.75
 guilt;sadness;0.75
-turmoil;sadness;0.733
 depressive;sadness;0.75
 depressives;sadness;0.75
 defeating;sadness;0.75
@@ -7397,6 +7397,7 @@ orphaning;sadness;0.734
 orphans;sadness;0.734
 orphan;sadness;0.734
 betrayal;sadness;0.734
+turmoil;sadness;0.733
 betrayals;sadness;0.729
 unfortunately;sadness;0.727
 emptiness;sadness;0.727
@@ -7602,6 +7603,12 @@ polios;sadness;0.656
 polio;sadness;0.656
 caskets;sadness;0.656
 feelingdown;sadness;0.656
+saddened;sadness;0.655
+sadden;sadness;0.655
+saddens;sadness;0.655
+saddening;sadness;0.655
+sadness;sadness;0.655
+sad;sadness;0.655
 casket;sadness;0.653
 cowardice;sadness;0.652
 disability;sadness;0.652
@@ -8144,16 +8151,11 @@ apology;sadness;0.453
 apologetic;sadness;0.453
 perplexity;sadness;0.453
 perplexities;sadness;0.453
+laughing at me;sadness;0.453
 secluding;sadness;0.453
 secludes;sadness;0.453
 secluded;sadness;0.453
 seclude;sadness;0.453
-saddened;sadness;0.453
-sadden;sadness;0.453
-saddens;sadness;0.453
-saddening;sadness;0.453
-sadness;sadness;0.453
-sad;sadness;0.453
 inability;sadness;0.453
 inabilities;sadness;0.453
 fells;sadness;0.453
